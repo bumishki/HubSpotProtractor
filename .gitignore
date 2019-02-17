@@ -1,0 +1,21 @@
+# Build artifacts
+.idea/
+allure-report/
+allure-results/
+data/userData.ts
+data/userData.js
+node_modules/
+tmp/
+package-lock.json
+
+data/*.js
+data/*.map
+pages/elements/*.js
+pages/elements/*.map
+pages/*.js
+pages/*.map
+specs/*.js
+specs/*.map
+utils/*.js
+utils/*.map
+
